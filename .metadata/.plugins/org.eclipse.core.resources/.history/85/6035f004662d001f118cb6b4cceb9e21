@@ -1,0 +1,6 @@
+package singleResposibility;
+
+public class InvoiceDao {
+	public Invoice invoice;
+	
+}
