@@ -1,0 +1,6 @@
+package interfaceSegmented;
+
+public interface WaiterInterface extends RestaurantEmp {
+	void serveCustomer();
+	void takeOrder();
+}

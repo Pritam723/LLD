@@ -1,0 +1,14 @@
+package dependencyInversion;
+
+public class MacBook {
+	private final Keyboard kb;
+	
+	public MacBook(Keyboard kb) {
+		this.kb = kb;
+	}
+	
+	void printConfig() {
+		System.out.println("My Mac has a " + kb.display());
+	}
+	
+}

@@ -1,0 +1,13 @@
+package liskovSubstitution;
+
+
+// Subclass should extend the capability of the parent, not narrow it down.
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

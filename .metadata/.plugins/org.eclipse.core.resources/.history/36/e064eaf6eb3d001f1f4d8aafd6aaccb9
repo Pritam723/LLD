@@ -1,0 +1,9 @@
+package dependencyInversion;
+
+// Class should depend on Interface rather than concrete class.
+
+public class Main {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,5 @@
+package interfaceSegmented;
+
+public class Waiter implements WaiterInterface {
+
+}

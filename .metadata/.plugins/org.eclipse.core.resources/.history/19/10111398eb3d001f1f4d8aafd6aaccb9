@@ -1,0 +1,5 @@
+package dependencyInversion;
+
+public interface Keyboard {
+	public void display();
+}

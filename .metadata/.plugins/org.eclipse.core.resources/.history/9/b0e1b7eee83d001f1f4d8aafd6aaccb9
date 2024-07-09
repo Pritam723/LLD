@@ -1,0 +1,6 @@
+package interfaceSegmented;
+
+public class ChefInterface {
+	public void cookFood();
+	public void decideMenu();
+}

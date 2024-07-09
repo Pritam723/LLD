@@ -1,0 +1,10 @@
+package dependencyInversion;
+
+public class MacBook {
+	private final Keyboard keyboard;
+	
+	public MacBook(Keyboard kb) {
+		this.keyboard = kb;
+	}
+	
+}

@@ -1,0 +1,8 @@
+package liskovSubstitution;
+
+public class Bike extends EngineVehicle {
+	
+	public Boolean hasEngine() {
+		return true;
+	}
+}

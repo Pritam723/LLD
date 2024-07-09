@@ -1,0 +1,8 @@
+package liskovSubstitution;
+
+public class Bicycle implements Vehicle {
+	@Override
+	public int getWheels() {
+		return 2;
+	}
+}
