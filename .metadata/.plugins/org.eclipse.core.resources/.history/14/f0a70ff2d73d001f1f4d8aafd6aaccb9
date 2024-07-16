@@ -1,8 +1,0 @@
-package openClose;
-
-public class FILE_DAO implements InvoiceDao {
-	// public Invoice inv;
-	public void save(Invoice Inv) {
-		System.out.println("Invoice of value " + Inv.calculateTotal() + " is saved to DB");
-	
-}

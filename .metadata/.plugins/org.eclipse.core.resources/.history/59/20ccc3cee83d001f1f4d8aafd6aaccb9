@@ -1,5 +1,0 @@
-package interfaceSegmented;
-
-public interface WaiterInterface extends RestaurantEmp {
-
-}
