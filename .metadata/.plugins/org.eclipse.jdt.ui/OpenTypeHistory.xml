@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=_2.StrategyPattern/src&lt;strategyPattern{DriveStrategy.java[DriveStrategy" modifiers="513" timestamp="1721130777397"/>
+    <typeInfo handle="=_2.StrategyPattern/src&lt;strategyPattern{Vehicle.java[Vehicle" modifiers="1" timestamp="1721131229692"/>
+    <typeInfo handle="=_3.ObserverDesignPattern/src&lt;_3.ObserverDesignPattern{StockObservable.java[StockObservable" modifiers="513" timestamp="1721200987664"/>
+    <typeInfo handle="=_3.ObserverDesignPattern/src&lt;_3.ObserverDesignPattern{NotificationAlertObserver.java[NotificationAlertObserver" modifiers="513" timestamp="1721196067943"/>
+    <typeInfo handle="=_4.DecoratorPattern/src&lt;_4.DecoratorPattern{BasePizza.java[BasePizza" modifiers="1025" timestamp="1721210950468"/>
+    <typeInfo handle="=_4.DecoratorPattern/src&lt;_4.DecoratorPattern{ToppingsDecorator.java[ToppingsDecorator" modifiers="1025" timestamp="1721211911194"/>
+    <typeInfo handle="=_5.FactoryAbstractFactoryPattern/src&lt;_5.FactoryAbstractFactoryPattern{Shape.java[Shape" modifiers="513" timestamp="1721216292530"/>
+    <typeInfo handle="=_5.FactoryAbstractFactoryPattern/src&lt;_5.FactoryAbstractFactoryPattern{Vehicle.java[Vehicle" modifiers="513" timestamp="1721217553739"/>
+    <typeInfo handle="=_5.FactoryAbstractFactoryPattern/src&lt;_5.FactoryAbstractFactoryPattern{VehicleFactory.java[VehicleFactory" modifiers="513" timestamp="1721218064717"/>
 </typeInfoHistroy>
