@@ -1,10 +1,10 @@
 package _6.ParkingLot.ParkingSpotManager;
 import java.util.List;
 
+import _6.ParkingLot.Vehicle;
 import _6.ParkingLot.ParkingSpot.ParkingSpot;
 import _6.ParkingLot.ParkingStrategy.ParkingStrategy;
 
-import java.util.ArrayList;
 
 public abstract class ParkingSpotManager {
 	public List<ParkingSpot> parkingSpots;
@@ -32,10 +32,12 @@ public abstract class ParkingSpotManager {
 	}
 	
 	// For Vehicle
-	public void parkVehicle() {
-		
+	public void parkVehicle(ParkingSpot parkingSpot, Vehicle v1) {
+		parkingSpot.isEmpty = true;
+		parkingSpot.setVehicle(v1);
 	}
-	public void removeVehicle() {
-		
+	public void removeVehicle(ParkingSpot parkingSpot, Vehicle v1) {
+		parkingSpot.isEmpty = false;
+		parkingSpot.setVehicle(null);
 	}
 }

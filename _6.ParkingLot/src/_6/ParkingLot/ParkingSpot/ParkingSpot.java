@@ -20,6 +20,10 @@ public abstract class ParkingSpot {
 		vehicleType = _vehicleType;
 	}
 	
+	public void setVehicle(Vehicle vehicle) {
+		this.vehicle = vehicle;
+	}
+	
 	// Abstract method which will be overridden by Child components.
 	public abstract int getPrice();
 	

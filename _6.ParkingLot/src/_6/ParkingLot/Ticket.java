@@ -5,10 +5,10 @@ import java.time.LocalDateTime;
 import _6.ParkingLot.ParkingSpot.ParkingSpot;
 
 public class Ticket {
-    LocalDateTime inTime;
+    public LocalDateTime inTime;
     // Out time will be calculated on exit.
-    Vehicle vehicle;
-    ParkingSpot parkingSpot;
+    public Vehicle vehicle;
+    public ParkingSpot parkingSpot;
     
     Ticket(Vehicle _vehicle, ParkingSpot _parkingSpot){
     	inTime = LocalDateTime.now();
