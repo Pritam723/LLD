@@ -9,4 +9,6 @@
     <typeInfo handle="=_5.FactoryAbstractFactoryPattern/src&lt;_5.FactoryAbstractFactoryPattern{Shape.java[Shape" modifiers="513" timestamp="1721216292530"/>
     <typeInfo handle="=_5.FactoryAbstractFactoryPattern/src&lt;_5.FactoryAbstractFactoryPattern{Vehicle.java[Vehicle" modifiers="513" timestamp="1721217553739"/>
     <typeInfo handle="=_5.FactoryAbstractFactoryPattern/src&lt;_5.FactoryAbstractFactoryPattern{VehicleFactory.java[VehicleFactory" modifiers="513" timestamp="1721218064717"/>
+    <typeInfo handle="=_6.ParkingLot/src&lt;PricingStrategy{PricingStrategy.java[PricingStrategy" modifiers="513" timestamp="1722247065334"/>
+    <typeInfo handle="=_6.ParkingLot/src&lt;CostComputation{CostComputation.java[CostComputation" modifiers="1025" timestamp="1722248893669"/>
 </typeInfoHistroy>

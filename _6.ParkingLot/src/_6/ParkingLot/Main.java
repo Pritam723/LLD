@@ -7,10 +7,10 @@ import _6.ParkingLot.Enums.VehicleType;
 import _6.ParkingLot.ParkingSpot.FourWheelerSpot;
 import _6.ParkingLot.ParkingSpot.ParkingSpot;
 import _6.ParkingLot.ParkingSpot.TwoWheelerSpot;
-import _6.ParkingLot.ParkingSpotManager.ParkingSpotManager;
-import _6.ParkingLot.ParkingSpotManager.ParkingSpotManagerFactory;
-import _6.ParkingLot.ParkingStrategy.NearToElevator;
-import _6.ParkingLot.ParkingStrategy.ParkingStrategy;
+//import _6.ParkingLot.ParkingSpotManager.ParkingSpotManager;
+//import _6.ParkingLot.ParkingSpotManager.ParkingSpotManagerFactory;
+//import _6.ParkingLot.ParkingStrategy.NearToElevator;
+//import _6.ParkingLot.ParkingStrategy.ParkingStrategy;
 
 public class Main {
 
